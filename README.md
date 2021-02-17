@@ -1,10 +1,3 @@
 # Ford-Medic-1
 FiveM Ready
-
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/UCm2_bPb-NDY5ycCBI09CKLA?v=BTRN1YETpyg />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/UCm2_bPb-NDY5ycCBI09CKLA?v=BTRN1YETpyg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+https://www.youtube.com/watch?v=Ok3kPQrNyCs
